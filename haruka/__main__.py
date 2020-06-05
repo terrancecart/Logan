@@ -135,7 +135,7 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = "Hey there! My name is Haruka Aya - I'm here to help you manage your groups!\n\
+    text = "Ah!  It Looks There's A Error.Please Don't Use This Again! Code : ErrorFound404 .!\n\
 Click Help button to find out more about how to use me to my full potential.\n\n"
 
     text += "Join [Haruka Aya Group](https://t.me/HarukaAyaGroup) ( @HarukaAyaGroup ) if you need any support or help\n\n\
